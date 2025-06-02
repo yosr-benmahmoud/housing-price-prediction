@@ -1,4 +1,4 @@
-# housing-price-prediction
+# Housing Price Prediction
 # 🏡 Housing Price Prediction - California Dataset
 
 This project aims to build a machine learning model to predict median housing prices in California districts, based on features such as population, median income, and location.
