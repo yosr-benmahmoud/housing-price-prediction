@@ -17,7 +17,6 @@ Predicting housing prices is crucial for real estate companies, investors, and p
 
 ## 📂 Dataset
 
-- **Source**: [California Housing from StatLib](https://www.dcc.fc.up.pt/~ltorgo/Regression/cal_housing.html)
 - Contains features such as:
   - Median income
   - Number of rooms
